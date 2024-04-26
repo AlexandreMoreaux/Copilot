@@ -20,3 +20,5 @@ You can run the powershell script that will create a folder and subfolder for th
 Once is done go to the exercise folder that you want to perform and follow the instruction in the README of the Exercise.
 
 Enjoy the labs.
+
+A "Troubleshooting" is present in case of you have issue with the lab 
